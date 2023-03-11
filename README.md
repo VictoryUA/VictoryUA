@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Quality Assurance Engineer 
 
-During the war in Ukraine I had started my career in IT as a Junior QA specialist. Since I've started testing, I realised how important meticulous. I like new challenges, it makes me learning more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative QA work environment and aim to exercise my full potential. That's why I'm looking for a company that will give me the chance to learn and develop myself as a Software Tester.  
+My goal is to develop testing knowledge and technical skills. At present I am intensively studying techniques and tools by attending online courses and by testing websites and applications. In this portfolio I would like to share some of my projects.
+
 * 📍 I'm based in Basque Country 
 * 👩‍💻 See my portfolio at [CV](http://docs.google.com/document/d/11uVOfJlezbfwxcJq3bEN7FF76iiJlO6r6R6XCQUM-rQ/edit?usp=sharing) 
 * 📧 You can contact me at [viktoriia\_posokhova@ukr.net](mailto:viktoriia_posokhova@ukr.net) 
