@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victoria🇺🇦
-
-I'm a QA Tester in Functional Testing (manual)
+Quality Assurance Engineer 
 
 During the war in Ukraine I had started my career in IT as a Junior QA specialist. Since I've started testing, I realised how important meticulous. I like new challenges, it makes me learning more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative QA work environment and aim to exercise my full potential. That's why I'm looking for a company that will give me the chance to learn and develop myself as a Software Tester.  
 * 📍 I'm based in Basque Country 
