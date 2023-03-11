@@ -1,6 +1,4 @@
 ## Welcome! My name is Victoria🇺🇦
-### I'm a Manual QA testing engineer
-
 <div id="header" align="lest">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="150"/>
 </div> 
