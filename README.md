@@ -56,7 +56,3 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/victoria-posokhova-177400239)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100085935053002)
 
-### My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoryUA&theme=sea&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
