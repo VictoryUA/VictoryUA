@@ -13,6 +13,8 @@ My goal is to develop testing knowledge and technical skills. At present, I'm in
 🤝 Open to collaborating on interesting projects\
 ⚡️ I'm so motivated to do it. I work hard and I can already see the results 💪
 
+You can make one-time donations via [PayPal](https://www.paypal.com/donate/?hosted_button_id=EEHUJ9GTP8G5L). I'll probably buy a ~~coffee~~ Pu-Erh Tea. 🍵
+
 ---
 
 ### Tools 
@@ -57,3 +59,4 @@ My goal is to develop testing knowledge and technical skills. At present, I'm in
 ### My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoryUA&theme=sea&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
