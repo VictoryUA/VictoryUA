@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Quality Assurance Engineer 
 
-My goal is to develop testing knowledge and technical skills. At present I am intensively studying techniques and tools by attending online courses and by testing websites and applications. In this portfolio I would like to share some of my projects.
+My goal is to develop testing knowledge and technical skills. At present I am intensively studying techniques and tools by attending online courses and by testing websites and applications. In this portfolio I would like to share some of my projects. Hope you'll enjoy 🌻
+
 
 * 📍 I'm based in Basque Country 
 * 👩‍💻 See my portfolio at [CV](http://docs.google.com/document/d/11uVOfJlezbfwxcJq3bEN7FF76iiJlO6r6R6XCQUM-rQ/edit?usp=sharing) 
