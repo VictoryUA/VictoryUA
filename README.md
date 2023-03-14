@@ -31,6 +31,7 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 ![Header](https://img.shields.io/badge/Snagit-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/XMind-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Scrum-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/MarkDown-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ---
 
