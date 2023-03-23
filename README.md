@@ -47,7 +47,7 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 ---
 
 ### Courses
-* Fundamentals of Software Testing [QATestLab](https://qatestlab.com)
+* Fundamentals of Software Testing [QATestLab](https://github.com/VictoryUA/VictoryUA/blob/main/certificate.pdf)
 * Free Software Testing Course [Popeliuha](https://www.youtube.com/@Popeliuha)
 * Introduction to SQL [SQLBolt](https://sqlbolt.com)
 
