@@ -7,9 +7,9 @@ My goal is to increase my tester rank to land the best-paying testing opportunit
 
 📍 Based in Basque Country\
 👩‍💻 See my [CV](http://docs.google.com/document/d/11uVOfJlezbfwxcJq3bEN7FF76iiJlO6r6R6XCQUM-rQ/edit?usp=sharing)\
-📧 Contact me at [vikpo6969@gmail.com](mailto:vikpo6969@gmail.com) or [t.me](https://t.me/vikpo6969)\
+📧 Contact me by [Email](mailto:vikpo6969@gmail.com) or [Telegram](https://t.me/vikpo6969)\
 🤝 Open to collaborating on interesting projects\
-⚡️ I'm so motivated to do it. I work hard and I can already see the results 💪
+⚡️ Clarity should take precedence over brevity 
 
 You can make one-time donations via [PayPal](https://www.paypal.com/donate/?hosted_button_id=EEHUJ9GTP8G5L). I'll probably buy a ~~coffee~~ Pu-Erh Tea. 🍵
 
