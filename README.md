@@ -6,7 +6,7 @@
 My goal is to increase my tester rank to land the best-paying testing opportunities. In this portfolio, I would like to share some of my projects. Hope you'll enjoy 🌻
 
 📍 Based in Basque Country\
-👩‍💻 See my [CV](http://docs.google.com/document/d/11uVOfJlezbfwxcJq3bEN7FF76iiJlO6r6R6XCQUM-rQ/edit?usp=sharing)\
+👩‍💻 See my [CV](https://drive.google.com/file/d/1CasHJpWaUves19raJwkB4sUsRqgmTIHz/view?usp=share_link)\
 📧 Contact me by [Email](mailto:vikpo6969@gmail.com) or [Telegram](https://t.me/vikpo6969)\
 🤝 Open to collaborating on interesting projects\
 ⚡️ Clarity should take precedence over brevity 
