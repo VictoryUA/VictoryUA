@@ -27,7 +27,7 @@ You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country
 ![Header](https://img.shields.io/badge/Snagit-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/XMind-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Scrum-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-
+![Header](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
