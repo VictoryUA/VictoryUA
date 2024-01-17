@@ -12,7 +12,7 @@ testing knowledge and technical skills
 🤝 Open to collaborating on interesting projects\
 ⚡️ Clarity should take precedence over brevity 
 
-You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country.x=FR&locale.x=en_US). I'll probably buy a ~~coffee~~ Pu-Erh Tea. 🍵
+You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country.x=FR&locale.x=en_US). I'll probably buy a ~~coffee~~ Pu-Erh Tea🍵
 
 ---
 
