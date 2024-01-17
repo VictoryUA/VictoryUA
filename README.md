@@ -1,8 +1,7 @@
 ## Welcome! My name is Victoria🇺🇦
 <div id="header" align="lest">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" height="140"/>
 </div> 
-
 I like to solve challenging tasks. I am a fast learner and
 upgrade my potential every day. My goal is to develop
 testing knowledge and technical skills
@@ -20,20 +19,15 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 ### Language and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/TestLink-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://img.shields.io/badge/Mantis-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/MicrosoftAsure-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Snagit-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/XMind-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Scrum-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/MarkDown-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
 
 ---
 
@@ -42,8 +36,7 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 - [Checklists]()
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+
 
 
 ---
@@ -51,7 +44,8 @@ You can make one-time donations via [PayPal](https://www.paypal.com/donate/?host
 ### Courses
 * Fundamentals of Software Testing [QATestLab](https://github.com/VictoryUA/VictoryUA/blob/main/certificate.pdf)
 * Free Software Testing Course [Popeliuha](https://www.youtube.com/@Popeliuha)
-* uTest [ID: 1646317](https://www.utest.com)
+* uTest Academy [ID: 1646317](https://www.utest.com)
+* Python Beginning [Projector Institute](https://prjctr.com)
 
 ---
 
