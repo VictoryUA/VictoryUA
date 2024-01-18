@@ -20,15 +20,18 @@ You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestLink-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Snagit-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/XMind-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Scrum-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Header](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Header](https://img.shields.io/badge/Miro-FFD200?style=for-the-badge&logo=miro&logoColor=white)
+![Header](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Header](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Header](https://img.shields.io/badge/DevTools-333333?style=for-the-badge&logo=devtools&logoColor=white)
+![Header](https://img.shields.io/badge/Charles_Proxy-262626?style=for-the-badge&logo=charles&logoColor=white)
+
 ---
 
 ### Testing Documentation
