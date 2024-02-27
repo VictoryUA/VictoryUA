@@ -2,9 +2,6 @@
 <div id="header" align="lest">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" height="140"/>
 </div> 
-I like to solve challenging tasks. I am a fast learner and
-upgrade my potential every day. My goal is to develop
-testing knowledge and technical skills
 
 📍 Based in Basque Country\
 👩‍💻 See my [CV](https://drive.google.com/file/d/1DVHZVcHWGGTAjC19mZXoL4CRIprFvPxP/view?usp=sharing)\
