@@ -44,4 +44,3 @@ You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/victoria-posokhova-177400239)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100085935053002)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoryUA&show_icons=true&theme=radical)
