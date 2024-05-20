@@ -26,15 +26,6 @@ You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country
 ![Header](https://img.shields.io/badge/Zapier-F05032?style=for-the-badge&logo=zapier&logoColor=white)
 ![Header](https://img.shields.io/badge/Make.com-F05032?style=for-the-badge&logo=make.com&logoColor=white)
 
----
-
-### Testing Documentation
-
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-
-
 
 ---
 
@@ -43,6 +34,7 @@ You can make one-time donations via [PayPal](https://paypal.me/vikpo6969?country
 * Free Software Testing Course [Popeliuha](https://www.youtube.com/@Popeliuha)
 * uTest Academy [ID: 1646317](https://www.utest.com)
 * Python Beginning [Projector Institute](https://prjctr.com)
+* Simulator of Marketing Automator [Marketing Automation School](https://masc.space)
 
 ---
 
